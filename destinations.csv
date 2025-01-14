@@ -1,0 +1,45 @@
+Circuit_Type,Region,Site_ID,Site_Name,Description,Best_Time_to_Visit
+Earth Memory Circuit,Medenine,1,Ksar M’rabtine,A majestic ksar showcasing traditional architecture and historical significance.,March to November
+Earth Memory Circuit,Tataouine,2,Ruines Romaines du Castelium,Ancient Roman ruins that provide insight into the region's historical past.,April to October
+Earth Memory Circuit,Tataouine,3,El Hira,"A large circular geological crevasse, significant for its unique geological features.",Year-round
+Earth Memory Circuit,Medenine,4,Ksar Beni Ghdir,A natural reserve featuring traditional architecture and rich biodiversity.,March to November
+Earth Memory Circuit,Tataouine,5,Parc des Dinosaures,"A park dedicated to dinosaur fossils, showcasing the region's prehistoric life.",April to October
+Earth Memory Circuit,Tataouine,6,Oued El Khil,A river known for its natural beauty and archaeological significance.,Year-round
+Earth Memory Circuit,Tataouine,7,Ain Sefri,"Caves featuring prehistoric rock figures, important for archaeological studies.",March to November
+Earth Memory Circuit,Tataouine,8,Chaabet El Maareka,"Another site with rock art, showcasing the region's prehistoric heritage.",March to November
+Earth Memory Circuit,Tataouine,9,Site de Guermassa,An ancient site with historical significance and archaeological remains.,Year-round
+Earth Memory Circuit,Medenine,10,Anciens Points d’Eau,Historical water points that highlight the region's ancient water management.,Year-round
+Coastal Circuit,Medenine,11,Boughrara,A coastal site known for its archaeological significance and beautiful beaches.,April to October
+Coastal Circuit,Djerba,12,Meninx,"An ancient site in Midoun, known for its rich history and archaeological remains.",March to November
+Coastal Circuit,Sousse,13,Jektis,An archaeological site with remnants of ancient civilizations along the coast.,April to October
+Coastal Circuit,Sousse,14,Tacapes,Known for its historical significance and archaeological findings.,Year-round
+Coastal Circuit,Sousse,15,Taparoura,A coastal site with archaeological remains and beautiful landscapes.,April to October
+Coastal Circuit,Mahdia,16,El Jem,"Famous for its well-preserved Roman amphitheater, a UNESCO World Heritage site.",March to November
+Coastal Circuit,Mahdia,17,Mahdia,A coastal town known for its beautiful beaches and historical sites.,May to September
+Coastal Circuit,Mahdia,18,Chebba,A town with a rich history and beautiful coastal scenery.,April to October
+Coastal Circuit,Monastir,19,El Alia,Known for its archaeological significance and beautiful landscapes.,March to November
+Coastal Circuit,Monastir,20,Monastir,A historical city with a vibrant medina and beautiful beaches.,April to October
+Coastal Circuit,Monastir,21,Henchir Tennir,An archaeological site with remnants of ancient civilizations.,Year-round
+Coastal Circuit,Monastir,22,Teboulba,A coastal town with historical significance and beautiful beaches.,April to October
+Coastal Circuit,Sousse,23,Hadrumet,An ancient site with archaeological remains and beautiful coastal scenery.,March to November
+Oasis and Sahara Circuit,Gabes,24,Oasis de Gabes,A coastal oasis known for its unique ecosystem and rich agricultural heritage.,March to November
+Oasis and Sahara Circuit,Tozeur,25,Oasis de Tozeur,"Famous for its palm trees and traditional architecture, a key tourist destination.",April to October
+Oasis and Sahara Circuit,Tozeur,26,Oasis de Nafta,Known for its rich date palm cultivation and beautiful landscapes.,March to November
+Oasis and Sahara Circuit,Kebili,27,Oasis de Kébili,A significant oasis with a long history of date palm cultivation.,April to October
+Oasis and Sahara Circuit,Gafsa,28,Oasis de Gafsa,Known for its natural springs and rich agricultural practices.,March to November
+Oasis and Sahara Circuit,Tozeur,29,Oasis de Tamerza,A mountain oasis famous for its stunning landscapes and traditional architecture.,April to October
+Oasis and Sahara Circuit,Kairouan,30,Oasis de Chbika,"A picturesque oasis located in the mountains, known for its natural beauty.",March to November
+Oasis and Sahara Circuit,Tozeur,31,Oasis de Mides,A mountain oasis with rich biodiversity and traditional farming practices.,April to October
+Oasis and Sahara Circuit,Kebili,32,Oasis de Rjim Maatoug,A newly created oasis known for its innovative agricultural practices.,March to November
+Oasis and Sahara Circuit,Tozeur,33,Oasis d'Ibn Chabat,Historical oasis known for its ancient irrigation systems dating back to the 13th century.,Year-round
+Islands Circuit,Nabeul,34,L’archipel de Zembra,"Composed of two islands, part of a UNESCO biosphere reserve since 1977.",April to October
+Islands Circuit,Djerba,35,L’île de Djerba,"The largest island in Tunisia, known for its beaches and tourist infrastructure.",May to September
+Islands Circuit,Sfax,36,L’île de Kerkennah,"Comprises two main islands, known for pottery and the annual octopus festival.",March
+Islands Circuit,Bizerte,37,L’île de la Galite,"A national park for monk seals and various bird species, with diverse landscapes.",April to October
+Islands Circuit,Tunis,38,L’île de Kneis,"A circular island with a diameter of 2.5 km, marshy and populated by migratory birds. The largest island is Bessila, known for its rich biodiversity and historical significance.",September to April
+Forest Circuit,Kasserine,39,Kasserine Forest,"A rich forest area known for its diverse flora and fauna, including rare species.",March to November
+Forest Circuit,Siliana,40,Siliana Forest,"Known for its dense forests and unique biodiversity, a key ecological area.",April to October
+Forest Circuit,Jendouba,41,Jendouba Forest,A forest area rich in endemic species and archaeological sites.,March to November
+Forest Circuit,Kef,42,Kef Forest,Characterized by its unique flora and historical Roman ruins.,April to October
+Forest Circuit,Bizerte,43,Bizerte Forest,A coastal forest area known for its biodiversity and scenic landscapes.,March to November
+Forest Circuit,Zaghouan,44,Zaghouan Forest,A forest area with a mix of coniferous trees and rich wildlife.,April to October
